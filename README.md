@@ -6,7 +6,6 @@ Adding my first commit change here.
 Adding my second commit change here.
 123
 234
-345
 567
 678
 
